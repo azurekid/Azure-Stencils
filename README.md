@@ -174,3 +174,8 @@ Azure Spring Cloud
 - Key Vaults
 - Security Center
 - Virtual network gateways
+
+### DevOps
+
+- DevTest Labs
+- Lab Services
