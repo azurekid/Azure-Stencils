@@ -30,6 +30,10 @@ Azure Spring Cloud
 
 - Azure SQL registries
 
+### AI + Machine Learning
+
+- Machine Learning
+
 ## Updated icons
 
 ### General
@@ -99,3 +103,35 @@ Azure Spring Cloud
 - SQL Server stretch databases
 - SQL virtual machines
 - Virtual clusters
+
+### Analytics
+
+- Data Lake Storage Gen1
+- Event Hubs Clusters
+- Event Hubs
+- HDInsight Clusters
+- SQL data warehouses
+
+### AI + Machine Learning
+
+- Cognitive Services
+
+### Internet of Things
+
+- Azure Maps Accounts
+- Event Grid Subscriptions
+- Event Hubs Clusters
+- Event Hubs
+- IoT Central Applications
+
+### Integration
+
+- Azure Stack Edge
+- Event Grid Domains
+- Event Grid Subscriptions
+- Event Grid Topics
+- Relays
+- Sendgrid Accounts
+- Service Bus
+- SQL data warehouses
+
