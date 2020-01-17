@@ -56,6 +56,11 @@ Azure Spring Cloud
 - Extended Security Updates
 - Multi-Factor Authentication
 
+### Management + Governance
+
+- Application Change Analysis
+- Machines - Azure Arc
+
 # Updated icons
 
 ### General
@@ -179,3 +184,18 @@ Azure Spring Cloud
 
 - DevTest Labs
 - Lab Services
+
+### Monitoring
+
+- Azure Monitor
+
+### Management + Governance
+
+- Azure Lighthouse
+- Blueprints
+- Education
+- My Customers
+- Policy
+- Service providers
+- Solutions
+- User privacy
