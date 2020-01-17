@@ -34,7 +34,29 @@ Azure Spring Cloud
 
 - Machine Learning
 
-## Updated icons
+### Identity
+
+- Azure AD Conditional Access
+- Azure AD Identity Protection
+- Azure AD Security
+
+### Security
+
+- Azure AD Authentication methods
+- Azure AD Conditional Access
+- Azure AD Identity Protection
+- Azure AD Identity Secure Score
+- Azure AD Named locations
+- Azure AD Password protection
+- Azure AD Privileged Identity Management
+- Azure AD Risk detection
+- Azure AD sign-ins
+- Azure AD Risky users
+- Azure AD Security
+- Extended Security Updates
+- Multi-Factor Authentication
+
+# Updated icons
 
 ### General
 
@@ -135,3 +157,20 @@ Azure Spring Cloud
 - Service Bus
 - SQL data warehouses
 
+### Identity
+
+- App registrations
+- Azure AD Connect Health
+- Azure AD Domain Services
+- Enterprise applications
+- Groups
+- Users
+
+### Security
+
+- Application Gateways
+- Application security groups
+- Azure Sentinel
+- Key Vaults
+- Security Center
+- Virtual network gateways
