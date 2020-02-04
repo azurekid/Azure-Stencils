@@ -11,6 +11,18 @@
 - Azure AD Risky sign-ins
 - Azure AD Security
 
+### Other
+
+- Blockchain Data Manager
+- Instance Pools
+- Disk Encryption Sets
+- Detonation Instances
+- Scheduler Job Collections
+- Firewall Policies
+- Preview features
+- Internet Analyzer profiles
+- Azure Monitors for SAP Solutions
+
 ## Updated icons
 
 ### Networking
